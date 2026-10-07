@@ -3,3 +3,25 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+# Working docs (specs, notes) — not versioned
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Reference editions corpus: copyrighted ebooks for verse-level QA only,
+# never redistributed. Entirely private — the manifest also points at sources.
+refs/
+
+# Verse-level QA tooling that operates on the gitignored reference corpus.
+scripts/refdiff.py
+scripts/scrape_*.py
+
+# Playwright MCP working dir (snapshots, screenshots, console logs)
+.playwright-mcp/

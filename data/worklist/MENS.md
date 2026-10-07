@@ -1,0 +1,73 @@
+# Worklist — MENS
+
+## high (0)
+
+## low (55)
+- GEN 14:1 — missing terminal punctuation
+- GEN 36:27 — missing terminal punctuation
+- GEN 46:11 — missing terminal punctuation
+- EXO 12:28 — missing terminal punctuation
+- EXO 16:11 — missing terminal punctuation
+- EXO 32:27 — missing terminal punctuation
+- NUM 6:24 — missing terminal punctuation
+- NUM 6:25 — missing terminal punctuation
+- NUM 13:21 — missing terminal punctuation
+- NUM 18:30 — missing terminal punctuation
+- NUM 28:25 — missing terminal punctuation
+- DEU 23:9 — missing terminal punctuation
+- DEU 33:8 — missing terminal punctuation
+- JOS 22:15 — missing terminal punctuation
+- JDG 13:6 — missing terminal punctuation
+- 2SA 5:3 — missing terminal punctuation
+- 2SA 12:24 — missing terminal punctuation
+- 2SA 13:6 — missing terminal punctuation
+- 2SA 16:1 — missing terminal punctuation
+- 1KI 1:1 — missing terminal punctuation
+- 1KI 8:56 — missing terminal punctuation
+- 2KI 19:25 — missing terminal punctuation
+- 2KI 23:26 — missing terminal punctuation
+- 2CH 6:22 — missing terminal punctuation
+- NEH 5:12 — missing terminal punctuation
+- JOB 30:1 — missing terminal punctuation
+- PSA 26:2 — missing terminal punctuation
+- PSA 59:16 — missing terminal punctuation
+- PSA 145:10 — missing terminal punctuation
+- PRO 17:10 — missing terminal punctuation
+- PRO 21:20 — missing terminal punctuation
+- PRO 24:13 — missing terminal punctuation
+- ISA 43:22 — missing terminal punctuation
+- JER 44:11 — missing terminal punctuation
+- LAM 3:31 — missing terminal punctuation
+- LAM 4:13 — missing terminal punctuation
+- EZK 11:7 — missing terminal punctuation
+- EZK 24:13 — missing terminal punctuation
+- DAN 2:48 — missing terminal punctuation
+- HOS 1:6 — missing terminal punctuation
+- ZEP 3:9 — missing terminal punctuation
+- MAT 27:55 — missing terminal punctuation
+- MRK 3:33 — missing terminal punctuation
+- MRK 10:29 — missing terminal punctuation
+- MRK 10:38 — missing terminal punctuation
+- MRK 10:46 — missing terminal punctuation
+- LUK 18:14 — missing terminal punctuation
+- JHN 4:43 — missing terminal punctuation
+- JHN 9:3 — missing terminal punctuation
+- JHN 9:16 — missing terminal punctuation
+- JHN 9:18 — missing terminal punctuation
+- JHN 19:16 — missing terminal punctuation
+- 2TI 4:3 — missing terminal punctuation
+- HEB 6:4 — missing terminal punctuation
+- JUD 1:20 — missing terminal punctuation
+
+## info (11)
+- ECC 3:9 — verse continues in next (grouping/split)
+- LAM 2:11 — verse continues in next (grouping/split)
+- MRK 10:23 — verse continues in next (grouping/split)
+- MRK 10:27 — verse continues in next (grouping/split)
+- MRK 10:32 — verse continues in next (grouping/split)
+- MRK 10:37 — verse continues in next (grouping/split)
+- JHN 9:6 — verse continues in next (grouping/split)
+- JHN 9:8 — verse continues in next (grouping/split)
+- JHN 9:13 — verse continues in next (grouping/split)
+- JHN 9:20 — verse continues in next (grouping/split)
+- JHN 9:24 — verse continues in next (grouping/split)
